@@ -1,0 +1,78 @@
+body {
+    background-image: url(eiffel.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+}
+
+
+/* Change the link color on hover */
+
+li a:hover {
+    background-color: #555;
+    color: rgb(255, 255, 255);
+}
+
+.transbox {
+    margin: 50px;
+    padding: 2em;
+    border: 1px solid black;
+    background-color: whitesmoke;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    font-weight: bold;
+    color: white;
+}
+
+.day1 {
+    background-image: url(table.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+    text-align: center;
+}
+
+.transbox1 {
+    margin: 50px;
+    padding: 2em;
+    border: 1px solid black;
+    background-color: rgb(36, 30, 30);
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    font-weight: bold;
+    color: white;
+}
+
+.day2 {
+    background-image: url(arc.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#day2 {}
+
+.day3 {
+    background-image: url(heart.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.day4 {
+    background-image: url(moulin.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}

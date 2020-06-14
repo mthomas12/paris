@@ -1,0 +1,96 @@
+/*formatting for index page background*/
+
+.home {
+    background-image: url(eiffel.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    max-width: 100%;
+    height: auto;
+    background-color: transparent;
+}
+
+
+/*index page copy*/
+
+div.transbox {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    padding: 1em;
+    opacity: 0.6;
+}
+
+
+/*font alignment for counter header*/
+
+div.w3-circle {
+    text-align: center;
+}
+
+
+/* font size and alignment for js counter*/
+
+#demo {
+    font-size: large;
+    text-align: center;
+}
+
+
+/*day one background*/
+
+.day1 {
+    background-image: url(table.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.day2 {
+    background-image: url(arc.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.day3 {
+    background-image: url(heart.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.day4 {
+    background-image: url(moulin.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.day5 {
+    background-image: url(abstracteiffel.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.day6 {
+    background-image: url(table.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.day7 {
+    background-image: url(eiffelnight.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.day8 {
+    background-image: url(eiffelsun.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
